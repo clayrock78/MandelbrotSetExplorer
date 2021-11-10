@@ -1,0 +1,12 @@
+* Mandelbrot Set Explorer by Clayton Jones *
+
+Hello! Here is a tutorial on how to use my little mandelbrot explorer!
+
+There are a few important keybindings:
+    1. Click to zoom on a spot
+    2. Use = and ] to increase or decrease the iterations, respectively
+    3. Use x to generate a high-resolution render of your current screen (2000 by 2000)
+        * This shows up under the main directory in the RENDEREDmandel.png file
+    4. Use r to return the main mandelbrot set
+
+Have fun with the explorer!
