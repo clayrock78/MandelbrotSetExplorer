@@ -10,3 +10,6 @@ There are a few important keybindings:
     4. Use r to return the main mandelbrot set
 
 Have fun with the explorer!
+
+* NOTE YOU WILL NEED TO BUILD THE RUST BIT OF THE PROGRAM WITH THE FOLLOWING COMMAND *
+- from the backend folder - "cargo build --release"
